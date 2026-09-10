@@ -1,0 +1,6 @@
+url: https://github.com/Blackman99/codsh/tree/main/packages/bundle
+name: Blackman99/codsh#bundle
+category: ui
+description:
+  en: 'Terminal coding agent for dsh: /ship grill-to-TDD landing, long-session TUI, installed into a code profile via codsh-bundle.'
+  zh: '面向 dsh 的终端 coding agent：/ship（grill 到 TDD 落地）、长会话 TUI，以 codsh-bundle 安装到 code profile。'
